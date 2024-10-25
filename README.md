@@ -1,5 +1,5 @@
-## Hi there 👋
-![Jon moesta](https://github.com/user-attachments/assets/4ded712f-f880-4810-ae2c-de456e9b3dff)
+![Jon moesta (1)](https://github.com/user-attachments/assets/ec1fe3e5-fd5c-40cd-8479-c1b175e753c9)
+
 
 <!--
 **Johney141/Johney141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
