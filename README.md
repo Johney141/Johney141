@@ -1,7 +1,7 @@
 ![Jon moesta (1)](https://github.com/user-attachments/assets/ec1fe3e5-fd5c-40cd-8479-c1b175e753c9)
 
 ## About me
-👋 Hi! I’m a full-stack web developer based in Winchester, VA, currently attending App Academy. I enjoy creating dynamic and responsive web applications, and when I’m not coding, you’ll likely find me gaming or spending time with my family.
+👋 Hi! I’m a full-stack web developer based in Winchester, VA and am currently attending App Academy. I enjoy creating dynamic and responsive web applications, and when I’m not coding, you’ll likely find me gaming or spending time with my family.
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
