@@ -21,7 +21,7 @@
 
 ## Connect with me! 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jon_Moesta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](www.linkedin.com/in/jonathan-moesta-9ab302276)
+[![Linkedin Badge](https://img.shields.io/badge/-Jon_Moesta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/jonathan-moesta-9ab302276)
 
 
 <!--
